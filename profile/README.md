@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="128" height="128" alt="uwaeng_icon" src="https://github.com/user-attachments/assets/12b1b3b6-37ab-4ba8-abbd-65f44458b4c4" />
-</p>
 <h1 align="center">Welcome to <b>UwaEng</b>!</h1>
 
 **UwaEng** stands for _Underwater Engineering_,
