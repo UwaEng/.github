@@ -9,7 +9,3 @@
 
 推荐查看[我们的社团网站](https://uwaeng.github.io)，包含介绍、联系方式，以及更多信息！
 也欢迎浏览我们的代码仓库。
-
-来个程序员笑话：（很抱歉但这个没有翻译版）
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=solidBlue)

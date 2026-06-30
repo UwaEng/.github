@@ -10,7 +10,3 @@ this is the official GitHub organization of the **Underwater Engineering Club**a
 
 If you are new here, make sure you check out [our website](https://uwaeng.github.io), which includes introduction, contact, and more!
 Or simply feel free to scroll around our repos.
-
-Quick joke for ya:
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=solidBlue)
